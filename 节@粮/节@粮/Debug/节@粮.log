@@ -1,0 +1,17 @@
+﻿  节@粮.cpp
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(498,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(1182,107): warning C4305: “参数”: 从“BOOL (__stdcall *)(HWND)”到“bool”截断
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(1496,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(1497,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(1498,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(1499,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(1500,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(1501,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(1502,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(1503,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(1504,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(1627,9): warning C4551: 缺少参数列表的函数调用
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(1799,9): warning C4551: 缺少参数列表的函数调用
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(2271,9): warning C4551: 缺少参数列表的函数调用
+C:\Users\若木不微凉。\Desktop\节@粮\节@粮\节@粮.cpp(2172): warning C4715: “game2play”: 不是所有的控件路径都返回值
+  节@粮.vcxproj -> C:\Users\若木不微凉。\Desktop\节@粮\Debug\节@粮.exe
